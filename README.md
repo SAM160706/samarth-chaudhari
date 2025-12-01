@@ -23,15 +23,14 @@
 
 - 🌱 Currently building **MERN stack projects**
 - 🎯 Goal: Become a **Full-Stack + AI Engineer**
-- 💼 [Portfolio Website](#) <!-- Add your portfolio link here! -->
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Frontend | Backend | AI/ML | Cybersecurity |
-|:--------:|:-------:|:-----:|:-------------:|
-| <img src="https://skillicons.dev/icons?i=react,tailwind,framer" height="32" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="32" /> | <img src="https://skillicons.dev/icons?i=python,tensorflow" height="32" /> | <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"/> |
+| Frontend | Backend | AI/ML | 
+|:--------:|:-------:|:-----:|
+| <img src="https://skillicons.dev/icons?i=react,tailwind,framer" height="32" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="32" /> | <img src="https://skillicons.dev/icons?i=python,tensorflow" height="32" /> |
 
 ---
 
@@ -46,15 +45,11 @@
 
 ## 🚀 Projects
 
-- [Portfolio Website](#)
-- More coming soon 🚀
-
----
 
 ## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samarth-chaudhari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vijaychaudhari31776@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- Add other socials as needed -->
 </p>
