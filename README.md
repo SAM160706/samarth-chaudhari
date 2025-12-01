@@ -45,17 +45,14 @@
 
 ## 🚀 Projects
 
-- [Skill Exchange Platform](#)  
+- [Skill Exchange Platform](https://github.com/SAM160706/Skill-Exchange-p)  
   _A platform where users can trade skills, collaborate on learning, and exchange services._
 
 - [Resume-to-Job Description Matcher](https://github.com/SAM160706/Matching-Resumes-against-Job-Description)  
   _AI-powered tool that matches resumes to job descriptions for better recruitment and fit._
 
-- [To-Do List App](#)  
+- [To-Do List App](https://github.com/SAM160706/todo_app)  
   _A simple and effective to-do list web application to boost productivity and task management._
-
-- [Pashu Setu](#)  
-  _A project focused on Animal health and support system for farmers._
 
 ---
 
