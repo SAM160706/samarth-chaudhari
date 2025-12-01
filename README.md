@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Web+Dev+%7C+AI+%26+Cybersecurity+Enthusiast;Building+MERN+Stack+Projects;Aspiring+Full-Stack+%2B+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Web+Dev+%7C+AI+%26+Cybersecurity+Ent[...]
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 | Frontend | Backend | AI/ML | 
 |:--------:|:-------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=react,tailwind,framer" height="32" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="32" /> | <img src="https://skillicons.dev/icons?i=python,tensorflow" height="32" /> |
+| <img src="https://skillicons.dev/icons?i=react,tailwind,framer" height="32" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="32" /> | <img src="https://skillicons.dev/ic[...]
 
 ---
 
@@ -45,6 +45,19 @@
 
 ## 🚀 Projects
 
+- [Skill Exchange Platform](#)  
+  _A platform where users can trade skills, collaborate on learning, and exchange services._
+
+- [Resume-to-Job Description Matcher](https://github.com/SAM160706/Matching-Resumes-against-Job-Description)  
+  _AI-powered tool that matches resumes to job descriptions for better recruitment and fit._
+
+- [To-Do List App](#)  
+  _A simple and effective to-do list web application to boost productivity and task management._
+
+- [Pashu Setu](#)  
+  _A project focused on Animal health and support system for farmers._
+
+---
 
 ## 🤝 Let's Connect!
 
